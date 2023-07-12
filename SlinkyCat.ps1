@@ -1,4 +1,4 @@
-# SlinkyCat v1.0
+# SlinkyCat - v1.0
 # Lares Labs - https://labs.lares.com/
 # Neil Lines & Andy Gill, 2023
 
